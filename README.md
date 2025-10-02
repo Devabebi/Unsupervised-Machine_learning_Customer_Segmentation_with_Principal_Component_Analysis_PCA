@@ -1,0 +1,2 @@
+# Unsupervised-Machine_learning_Customer_Segmentation_with_Principal_Component_Analysis_PCA
+ I used PCA and clustering on 1.2M+ transactions to uncover five customer segments. This revealed hidden demand patterns, identified high-value groups driving 30% of revenue, improved sales forecasting by 18%, and enabled targeted marketing, product optimisation, and stronger customer engagement, delivering clear, data-driven growth strategies.
